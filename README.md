@@ -1,4 +1,4 @@
-# Data Sweeper for Growth Mindset Challenge 🧠🚀
+# Data Sweeper for Growth Mindset Challenge 🚀
 
 Welcome to the **Data Sweeper for Growth Mindset** project! This tool is designed to help clean, analyze, and visualize data to encourage and track growth mindset development. Whether you're a teacher, coach, or individual aiming to track your personal growth, this tool is for you! 🌱
 
